@@ -12,7 +12,7 @@ export default class Show extends Component {
     viewMore=()=>{
         if(this.state.flag===false){
         this.setState({
-            content:"I am A CSE Student at GLA University Mathura and I love Doing Data Science and Machine Learning Projects.Please reach me for any help I Love AI. Click Below to show less !!!",
+            content:"I am A CSE Student at GLA University Mathura and I love Doing Data Science and Machine Learning Projects.Please reach me for any help I Love AI. Click Below to show less !!!!!!!",
             flag:true,
             description:"Read Less",
         })
